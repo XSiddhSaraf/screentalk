@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T16:16:35.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.18" etag="qxohgUBbq9TCGatHbLsf" type="github"><diagram name="Page-1" id="CtPorgt5fc8n60i2FD5f">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-07T16:31:51.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="8vRPvDvqN4zTG2EpNs7h" version="20.8.18" type="github">
+  <diagram name="Page-1" id="CtPorgt5fc8n60i2FD5f">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dgkX3fBStYIt6EzT4wuA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.539;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dgkX3fBStYIt6EzT4wuA-1" target="dgkX3fBStYIt6EzT4wuA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dgkX3fBStYIt6EzT4wuA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dgkX3fBStYIt6EzT4wuA-1" target="dgkX3fBStYIt6EzT4wuA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dgkX3fBStYIt6EzT4wuA-1" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.mobile" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="63" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dgkX3fBStYIt6EzT4wuA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.92;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dgkX3fBStYIt6EzT4wuA-2" target="dgkX3fBStYIt6EzT4wuA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dgkX3fBStYIt6EzT4wuA-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="99.84" y="380" width="83.33" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dgkX3fBStYIt6EzT4wuA-4" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Service_Mobile_App.svg;" vertex="1" parent="1">
+          <mxGeometry x="326" y="40" width="40.8" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dgkX3fBStYIt6EzT4wuA-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-74/24/004_-_Website-128.png" vertex="1" parent="1">
+          <mxGeometry x="317.4" y="210" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="dgkX3fBStYIt6EzT4wuA-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/sans-abstract/20/system-128.png" vertex="1" parent="1">
+          <mxGeometry x="307.4" y="360" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="dgkX3fBStYIt6EzT4wuA-14" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Offline Mobile App to read what is on screen&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="10" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dgkX3fBStYIt6EzT4wuA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=17;" edge="1" parent="1" source="dgkX3fBStYIt6EzT4wuA-15" target="dgkX3fBStYIt6EzT4wuA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dgkX3fBStYIt6EzT4wuA-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="460" y="58" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="dgkX3fBStYIt6EzT4wuA-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/assorted-gadgets-and-items-1/144/headphones-128.png;fontSize=17;strokeWidth=7;imageBackground=default;fillStyle=dashed;" vertex="1" parent="1">
+          <mxGeometry x="810" y="82" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="dgkX3fBStYIt6EzT4wuA-18" value="Speech to Text using AI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="510" y="131" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dgkX3fBStYIt6EzT4wuA-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="460" y="360" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="dgkX3fBStYIt6EzT4wuA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="dgkX3fBStYIt6EzT4wuA-20" target="dgkX3fBStYIt6EzT4wuA-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dgkX3fBStYIt6EzT4wuA-20" value="Speech to Text using AI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="540" y="443" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dgkX3fBStYIt6EzT4wuA-21" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Offline Web App to read what is on screen&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="310" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dgkX3fBStYIt6EzT4wuA-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/assorted-gadgets-and-items-1/144/headphones-128.png;fontSize=17;strokeWidth=7;imageBackground=default;fillStyle=dashed;" vertex="1" parent="1">
+          <mxGeometry x="810" y="380" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="dgkX3fBStYIt6EzT4wuA-26" value="Human Listener" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="920" y="140" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dgkX3fBStYIt6EzT4wuA-27" value="Human Listener" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="930" y="438" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
